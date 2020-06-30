@@ -266,7 +266,7 @@ input, select, textarea {
 		}
 
 	hr {
-		border: 0;
+		border: 2px solid darkgrey;
 		border-bottom: solid 2px;
 		margin: 3rem 0;
 	}
@@ -3862,7 +3862,7 @@ input, select, textarea {
 			}
 
 			#main > .posts > article {
-				border-color: #eeeeee;
+				border-color: #c5b2b2;
 				border-left-width: 2px;
 				border-style: solid;
 				border-top-width: 2px;
